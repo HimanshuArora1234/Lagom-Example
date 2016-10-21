@@ -1,7 +1,7 @@
 # Lagom Java Microservices
 
 A java microservice project to explore Lightbend's new Framework Lagom and also to work little bit with event sourcing.
-The event are persisted in the embedded casandra database which comes by default with Lagom.
+The events are persisted in the embedded cassandra database which comes by default with Lagom.
 
 ## To run
 The following command runs all the microservices present in the project.
